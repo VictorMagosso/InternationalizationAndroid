@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome!</string>
+    <string name="introAppMessage">Simple interface: thought, clicked!</string>
+    <string name="secondScreenMsg">Control your expenses and watch your money grow</string>
+    <string name="lastScreenMsg">So... Ready to start?!</string>
+    <string name="btnNext">Next</string>
+    <string name="btnFinish">Start</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenue!</string>
+    <string name="introAppMessage">Interface simple: pensé, cliqué!</string>
+    <string name="secondScreenMsg">Contrôlez vos dépenses et voyez votre argent rapporter</string>
+    <string name="lastScreenMsg">" Quoi de neuf? Prêt à commencer?!"</string>
+    <string name="btnFinish">Commencer</string>
+    <string name="btnNext">Suivant</string>
+</resources>

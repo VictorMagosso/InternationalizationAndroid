@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Internationalization</string>
+    <string name="screenTitle">Título</string>
+    <string name="welcome">Bem-vindo!</string>
+    <string name="introAppMessage">Interface simples: pensou, clicou!</string>
+    <string name="secondScreenMsg">Controle seus gastos e veja seu dinheiro render</string>
+    <string name="lastScreenMsg">E aí? Pronto para começar?!</string>
+    <string name="btnNext">Próximo</string>
+    <string name="btnFinish">Começar</string>
+</resources>
