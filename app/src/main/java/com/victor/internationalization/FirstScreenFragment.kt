@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import androidx.navigation.fragment.findNavController
 
 class FirstScreenFragment : Fragment() {
     override fun onCreateView(
@@ -16,7 +17,7 @@ class FirstScreenFragment : Fragment() {
         val view = inflater.inflate(R.layout.fragment_first_screen, container, false)
 
         view.findViewById<Button>(R.id.btnNext).setOnClickListener{
-
+            findNavController().navigate(R.id.action_firstScreenFragment_to_secondScreenFragment)
         }
         return view
     }
